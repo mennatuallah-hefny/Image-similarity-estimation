@@ -1,0 +1,5 @@
+{
+    "DATA_PATH": "path/to/your/data",  // Replace with the actual path to your data
+    "TARGET_HEIGHT": 200,               // Desired height for image processing
+    "TARGET_WIDTH": 200                  // Desired width for image processing
+}

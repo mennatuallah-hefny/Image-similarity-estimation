@@ -1,0 +1,5 @@
+keras==3.6.0
+matplotlib
+tensorflow
+gdown
+python-dotenv
